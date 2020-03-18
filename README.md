@@ -25,3 +25,12 @@ Click Test on your Device.
 Enter your app's Instance ID in the Add an instance ID field.
 
 Click Test to send the message.
+
+ The following image for only card message layout
+
+![image](https://user-images.githubusercontent.com/39657409/76998946-e1e50d00-697b-11ea-9b42-024d46ce0acc.png)
+
+The below image for only image message layout if user click the image it will show the second image view
+![image](https://user-images.githubusercontent.com/39657409/76998969-ef9a9280-697b-11ea-8ca8-ed0d10aa4f78.png)
+![image](https://user-images.githubusercontent.com/39657409/76998992-fb865480-697b-11ea-97af-93071de93d53.png)
+
