@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240615515028",
+    "firebase_url": "https://fir-inappmessage-9943d.firebaseio.com",
+    "project_id": "fir-inappmessage-9943d",
+    "storage_bucket": "fir-inappmessage-9943d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240615515028:android:8dd62805cb5c9206f26581",
+        "android_client_info": {
+          "package_name": "net.kathir.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240615515028-ldt94mgl0kmeto3gg5p2ocr6rqc0vb0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYmvyDJqPobRyOjF-GDoCFPQAcDFTVjN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240615515028-ldt94mgl0kmeto3gg5p2ocr6rqc0vb0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
